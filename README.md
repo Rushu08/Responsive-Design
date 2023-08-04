@@ -1,2 +1,2 @@
 # Responsive-Design
-practice of making respomsive web pages
+practice of making responsive web pages
